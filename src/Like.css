@@ -1,0 +1,9 @@
+.likeCounter {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    height: 32px;
+    width: 32px;
+}

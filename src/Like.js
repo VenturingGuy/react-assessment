@@ -1,4 +1,5 @@
 import React from 'react'
+import './Like.css'
 
 class Like extends React.Component {
     constructor(props) {

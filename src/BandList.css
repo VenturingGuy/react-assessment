@@ -1,0 +1,11 @@
+.BandList {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10%;
+    background-color: aliceblue;
+    border-radius: 5em;
+}
+
+.BandList > * {
+    flex: 0 0 20%;
+}

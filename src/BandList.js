@@ -1,7 +1,7 @@
 import React from 'react';
 import Band from './Band';
 import Like from './Like';
-
+import './BandList.css'
 import data from './metal.json';
 
 function BandList() {
